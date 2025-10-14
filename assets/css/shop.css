@@ -33,9 +33,9 @@
     transition: .5s cubic-bezier(.30,.30,.05,.95);
 }
 .shop-action{
-    position: absolute;
-    right: 10px;
-    top: 10px;
+	position: absolute;
+	right: 9px;
+	top: 10px;
 }
 .shop-action li{
     transform: translateX(100%);
@@ -580,4 +580,3 @@
 
 /*max-width 320px*/
 @media (max-width: 320px) {}
-
